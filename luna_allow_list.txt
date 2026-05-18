@@ -1,5 +1,1 @@
-html-load.com
-snopes.com
-xda-developers.com
-autoblog.com
-!doubleclick.net
+@@||doubleclick.net^
